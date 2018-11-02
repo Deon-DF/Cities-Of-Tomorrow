@@ -107,6 +107,11 @@ public class GUI : MonoBehaviour {
 		Game.id.current_menu = Enum_Menu.settings;
 	}
 
+	public void button_escape_menu_saveandexit(){
+		FileManager.deleteFile (Game.id.save_path + "/savegame.sav");
+		FileManager.createSaveFile (Game.id.save_path);
+	}
+
 	#endregion
 
 	#region settings_menu

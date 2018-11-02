@@ -1,18 +1,18 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Events.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\GUI.cs">
     <Files>
-      <File FileName="Assets\_Scripts\Game.cs" Line="41" Column="18" />
+      <File FileName="Assets\_Scripts\Game.cs" Line="7" Column="34" />
+      <File FileName="Assets\_Scripts\FileManager.cs" Line="71" Column="65" />
+      <File FileName="Assets\_Scripts\GUI.cs" Line="111" Column="62" />
       <File FileName="Assets\_Scripts\Controls.cs" Line="16" Column="43" />
-      <File FileName="Assets\_Scripts\PlayerPrefs.cs" Line="43" Column="26" />
-      <File FileName="Assets\_Scripts\FileManager.cs" Line="45" Column="30" />
+      <File FileName="Assets\_Scripts\PlayerPrefs.cs" Line="41" Column="38" />
       <File FileName="Assets\_Scripts\DevLog.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\GlobalVariables.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\Menus.cs" Line="8" Column="30" />
-      <File FileName="Assets\_Scripts\EventView.cs" Line="17" Column="23" />
-      <File FileName="Assets\_Scripts\GUI.cs" Line="147" Column="50" />
-      <File FileName="Assets\_Scripts\Classes.cs" Line="149" Column="30" />
-      <File FileName="Assets\_Scripts\Events.cs" Line="69" Column="108" />
+      <File FileName="Assets\_Scripts\Menus.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\EventView.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Classes.cs" Line="149" Column="27" />
+      <File FileName="Assets\_Scripts\Events.cs" Line="8" Column="69" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

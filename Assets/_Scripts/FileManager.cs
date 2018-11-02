@@ -51,4 +51,24 @@ public class FileManager {
 			Debug.LogError ("The file " + file_path + " already exists!");
 		}
 	}
+
+	public static void createSaveFile(string file_path) {
+		/* do this if you want to create a new save based on time
+		System.DateTime current_time = System.DateTime.Now;
+		string time_format = current_time.ToString ();
+		time_format = time_format.Replace ("/", "_");
+		time_format = time_format.Replace (" ", "_");
+		time_format = time_format.Replace (":", "_");
+		string savefile = file_path + "/savegame_" + time_format + ".sav";*/
+		string savefile = file_path + "/savegame" + ".sav";
+		if (!System.IO.File.Exists (savefile)) {
+			using (StreamWriter sw = File.CreateText(savefile))
+			{
+				sw.WriteLine ("sfx " + PlayerPrefs.id.sfx);
+			}
+
+		} else {
+			Debug.LogError ("The file " + savefile + " already exists!");
+		}
+	}
 }

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Game : MonoBehaviour {
+	
+	public string save_path = "Saves";
 
 	public bool game_started = false;
 	public static Game id;
@@ -26,13 +28,14 @@ public class Game : MonoBehaviour {
 		#endregion
 
 		GUI.id.refresh_gui_overlays();
+
+		controls = new Controls ();
 			
 	}
 	
 	public void start_game () {
 		player_base = new Base ();
 		city = new City ();
-		controls = new Controls ();
 		
 		party = new List<Character>();
 		safehouse = new List<Character>();
@@ -55,7 +58,7 @@ public class Game : MonoBehaviour {
 		game_started = true;
 		#endregion
 	}
-	
+
 	void Awake () {
 		if (id == null) {
 			id = this;

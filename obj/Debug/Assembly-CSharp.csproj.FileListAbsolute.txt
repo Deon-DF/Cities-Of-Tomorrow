@@ -1,34 +1,3 @@
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Assembly-CSharp.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Assembly-CSharp.pdb
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\nunit.framework.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEditor.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Analytics.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.HoloLens.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Networking.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.TestRunner.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.UI.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.VR.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Mono.Cecil.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.SerializationLogic.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.DataContract.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\ICSharpCode.NRefactory.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.UNetWeaver.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.CecilTools.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Mono.Cecil.Pdb.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Mono.Cecil.Mdb.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEditor.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.UI.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.TestRunner.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\nunit.framework.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Analytics.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.HoloLens.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.VR.xml
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\obj\Debug\Assembly-CSharp.dll
-C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\obj\Debug\Assembly-CSharp.pdb
 D:\Work\Github\Cities-Of-Tomorrow\Temp\bin\Debug\Assembly-CSharp.dll
 D:\Work\Github\Cities-Of-Tomorrow\Temp\bin\Debug\Assembly-CSharp.pdb
 D:\Work\Github\Cities-Of-Tomorrow\Temp\bin\Debug\nunit.framework.dll
@@ -60,3 +29,34 @@ D:\Work\Github\Cities-Of-Tomorrow\Temp\bin\Debug\UnityEngine.VR.xml
 D:\Work\Github\Cities-Of-Tomorrow\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 D:\Work\Github\Cities-Of-Tomorrow\obj\Debug\Assembly-CSharp.dll
 D:\Work\Github\Cities-Of-Tomorrow\obj\Debug\Assembly-CSharp.pdb
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\nunit.framework.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEditor.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEditor.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\nunit.framework.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\obj\Debug\Assembly-CSharp.dll
+C:\Users\dchuraev\Documents\GitHub\Cities Of Tomorrow\obj\Debug\Assembly-CSharp.pdb
